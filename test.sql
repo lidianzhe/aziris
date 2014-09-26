@@ -4,6 +4,7 @@
 -- ------------------------------------------------------
 -- Server version	10.0.12-MariaDB
 
+/* change test by lihongjun */
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
