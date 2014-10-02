@@ -37,7 +37,7 @@
             this.ClientSize = new System.Drawing.Size(1008, 673);
             this.IsMdiContainer = true;
             this.Name = "MDIForm";
-            this.Text = "MDIForm";
+            this.Text = "Acezen Physical Access Control System";
             this.Load += new System.EventHandler(this.MDIForm_Load);
             this.ResumeLayout(false);
 
