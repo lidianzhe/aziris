@@ -34,7 +34,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1008, 673);
+            this.ClientSize = new System.Drawing.Size(1212, 911);
             this.IsMdiContainer = true;
             this.Name = "MDIForm";
             this.Text = "Acezen Physical Access Control System";
